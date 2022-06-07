@@ -4,7 +4,7 @@ This program is located in the segmentationKMeans.ipynb file. It takes in an ima
 To compute the posterisation, I designed my own kMean function (rather than using sklearn's).
 
 ## Linear Regression
-This program is located in the regressionRANSAC.ipynb file. This task involved performing linear regression on a collection of randomly created data in order to predict where new values would be located.  Linear regression involves using minimising the objective function to produce a closed form solution.
+This program is located in the regressionRANSAC.ipynb file. This task involved performing linear regression on a collection of randomly created data in order to predict where new values would be located (i.e. given x predict the y).  Linear regression involves minimising the objective function to produce a closed form solution.
 
 ## Linear Regression using RANSAC
 This program is also located in the regressionRANSAC.ipynb file. This tasks invovled improving the linear regression task by implementing RANSAC to prevent outliers from affecting the prediction. RANSAC works as follows:
